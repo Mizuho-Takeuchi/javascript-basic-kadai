@@ -7,7 +7,7 @@ for (let i = 0; i < holidays.length; i++) {
 
 // while文の場合
 let num = 0;
-while (num < 10) {
+while (num < 16) {
     console.log(holidays[num]);
     num++;
 }
