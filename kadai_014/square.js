@@ -1,5 +1,5 @@
 const square = (num) => {
-    return num*num;
+    return Math.pow(num,2);
 }
 
 console.log(square(10));
